@@ -4,7 +4,7 @@
 
 - ✨ I'm front end developer
 - 🌱 I’m currently learning React.js
-- 📫 I'm pretty active on <a href="https://www.linkedin.com/in/rohit-singh-bisht-5b672b1ba/">Linkedln</a>, DMs are open :)
+- 📫 I'm pretty active on <a href="https://www.linkedin.com/in/rohit-singh-bisht-5b672b1ba/">Linkedln</a>
 - 😄 Pronouns: he/him
 - 🏀 Love playing Basketball
 

@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - ✨ I'm front end developer
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js
 - 📫 I'm pretty active on <a href="https://www.linkedin.com/in/rohit-singh-bisht-5b672b1ba/">Linkedln</a>
 - 😄 Pronouns: he/him
 - 🏀 Love playing Basketball

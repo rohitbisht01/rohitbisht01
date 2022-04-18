@@ -1,6 +1,6 @@
 # Hee👋, I'm Rohit
 
-<img align="right" alt="Coding" width="425" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="425" height="400" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg?compress=1&resize=800x600&vertical=top">
 
 - ✨ I'm front end developer
 - 🌱 I’m currently learning Node.js

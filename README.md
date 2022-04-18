@@ -1,4 +1,4 @@
-# Hee👋, I'm Rohit
+# Hii👋there, I'm Rohit
 
 <img align="right" alt="Coding" width="425" height="400" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg?compress=1&resize=800x600&vertical=top">
 

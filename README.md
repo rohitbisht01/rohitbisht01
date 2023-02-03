@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Almora , Uttarakhand<br>🔭 I’m currently working as ReactJs Developer<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about anything<br>
+🌍  I'm based in Almora , Uttarakhand<br>🔭 I’m currently working as ReactJs Developer<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:

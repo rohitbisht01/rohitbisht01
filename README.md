@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Almora , Uttarakhand<br>🔭 I’m currently working remotely as ReactJs Developer<br>💬 Ask me about anything<br>
+🌍  I'm based in Almora , Uttarakhand<br>🔭 I’m currently working remotely as ReactJs Developer<br>💬 Currently learning NextJS<br>
 
 
 ## 🌐 Socials:

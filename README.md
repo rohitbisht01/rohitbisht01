@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [Under Construction](Under Construction)
+- 👨‍💻 All of my projects are available at https://rohit-bisht.vercel.app/
 
 - 📫 How to reach me **rb9519208@gmail.com**
 

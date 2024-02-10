@@ -10,9 +10,9 @@
 <br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
+<a href="https://www.linkedin.com/in/rohitbisht01/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Rohit Bisht | LinkedIn" width=40px;/>
 </a>
-<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+<a href="https://twitter.com/rohit__bisht_"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Rohit Bisht | Twitter" width="40px"/>
 </a>
 
 <br>

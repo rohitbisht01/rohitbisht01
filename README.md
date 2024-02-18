@@ -4,9 +4,6 @@
 
 <br>
 
-## 🧑‍💻 About Me:
-- 🌱 Currently delving into full stack web development.
-
 <br>
 
 ## 🤝 Connect with me:

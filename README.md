@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN stack application.**
 
-- 👨‍💻 All of my projects are available at [rohit-bisht.vercel.app](rohit-bisht.vercel.app)
+- 👨‍💻 All of my projects are available at [rohit-bisht.vercel.app](https://rohit-bisht.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

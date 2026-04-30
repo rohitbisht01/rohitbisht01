@@ -16,7 +16,5 @@ I’m actively looking for **full-time opportunities** to contribute my skills t
 
 ## 🌍 Connect with me:
 - <a href="https://www.linkedin.com/in/rohitbisht01/" target="_blank">LinkedIn</a>
-- <a href="https://rohitbisht.vercel.app/" target="_blank">Personal Portfolio</a>
-
 
 Feel free to reach out—let’s build something awesome together!
